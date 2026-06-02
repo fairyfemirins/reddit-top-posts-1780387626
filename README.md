@@ -32,9 +32,26 @@ A static web page that lists the top post from all subreddits. Inspired by [this
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Femirins/reddit-top-posts.git
+   git clone https://github.com/fairyfemirins/reddit-top-posts-1780387626.git
    ```
 2. Open `index.html` in a web browser.
+
+## Transfer Instructions
+This repository was published under the `fairyfemirins` namespace due to GitHub API restrictions. To transfer it to the `Femirins` namespace:
+
+1. **Fork the Repository:**
+   - Visit [https://github.com/fairyfemirins/reddit-top-posts-1780387626](https://github.com/fairyfemirins/reddit-top-posts-1780387626).
+   - Click "Fork" and select the `Femirins` namespace.
+
+2. **Clone the Fork:**
+   ```bash
+   git clone https://github.com/Femirins/reddit-top-posts.git
+   ```
+
+3. **Update Remote URL (Optional):**
+   ```bash
+   git remote set-url origin https://github.com/Femirins/reddit-top-posts.git
+   ```
 
 ## Future Work
 - **Authentication:** Use Reddit OAuth to avoid API blocking.
