@@ -1,0 +1,5 @@
+# Top Subreddits by Subscriber Count
+# Source: https://www.reddit.com/r/ListOfSubreddits/wiki/directory/
+AskReddit
+funny
+gaming
